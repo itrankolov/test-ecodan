@@ -98,12 +98,6 @@ sensor:
       name: Mixer tank feed temp
     mix_tank_return_temp:
       name: Mixer tank return temp
-    unknown_temp_1:
-      name: Unknown Temperature 1
-    unknown_temp_2:
-      name: Unknown Temperature 2
-    unknown_temp_3:
-      name: Unknown Temperature 3
     hot_water_temperature:
       name: Hot water temperature
     runtime:
