@@ -59,8 +59,8 @@ def to_code(config):
                 max_value = 30
                 step = 0.5
             elif key == CONF_ZONE1_FLOW_TEMP_SETPOINT:
-                min_value = 20
-                max_value = 60
+                min_value = 5
+                max_value = 50
                 step = 0.5
             else:
                 min_value = 0
