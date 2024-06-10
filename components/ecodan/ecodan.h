@@ -18,7 +18,7 @@
 #define HEADER_LEN 8
 #define RCVD_PKT_FAIL 0
 #define RCVD_PKT_CONNECT_SUCCESS 1
-#define POLL_INTERVAL 10000 // 10 seconds
+#define POLL_INTERVAL 15000 // 10 seconds
 #define READOUT_DELAY 100 // 100 ms
 
 namespace esphome {
